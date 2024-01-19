@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Nihal
-- 🌱 I’m currently learning NextJS
-- 💞️ I’m looking to collaborate on PHP CodeIgniter
-- 📫 Reach me at - nihal@theblockdata.in
+- 🌱 Currently, working as a PHP developer since 5 years
+- 💞️ Learning Go and Next JS
+- 📫 Reach me at - nihaltabhane@gmail.com
 
 <!---
 nikpeace/nikpeace is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
