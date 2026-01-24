@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Nihal
-- 🌱 Currently, working as a PHP developer since 5 years
-- 💞️ Learning Go and Next JS
+- 🌱 Currently, working as a Full Stack Developer since 7 years
+- 💞️ Learning Go
 - 📫 Reach me at - nihaltabhane@gmail.com
 
 <!---
